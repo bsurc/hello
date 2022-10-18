@@ -1,0 +1,4 @@
+print("HELLO, KYLE!\n")
+print("ONE")
+print("TWO")
+print("LAST ONE")
